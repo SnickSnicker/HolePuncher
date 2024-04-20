@@ -1,4 +1,5 @@
-This fork is compatible with Godot 4. Find the Godot 3 compatible version here: https://github.com/CreggHancock/HolePuncher/tree/godot3
+This fork has been updated to work with Godot 4.2.x+
+Find the Godot 3 compatible version here: https://github.com/CreggHancock/HolePuncher/tree/godot3
 
 ## HolePunch Plugin
 
